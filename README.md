@@ -1,5 +1,5 @@
 # pet-adoption-app
-written in React Native
+a mobile app written in React Native
 
 to try the app scan the qr in this link <a href="https://expo.dev/@bo3/PETADOPTION_APP">click here</a>
 <br/>
